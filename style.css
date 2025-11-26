@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f3f3;
+    padding: 20x;
+    font-size: 64px;
+}
+
+h1 {
+    color: #333;
+}
+
+a {
+    color: #2761fffd;
+    text-decoration: none;
+    font-size: 32;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+}
